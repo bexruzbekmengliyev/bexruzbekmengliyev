@@ -1,4 +1,4 @@
-### Hi there, I'm {Mengliyev Bexruzbek] 
+### Hi there, I'm [Ismingizni Yozing] 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=180&text=Welcome%20To%20My%20GitHub!&fontColor=ffffff&fontSize=45&fontAlignY=30&animation=fadeIn&desc=Professional%20Developer&descSize=15&font=Indie+Flower" />
@@ -29,15 +29,15 @@ Men dasturlashni yaxshi ko'raman va yangi texnologiyalarni o'rganishga qiziqaman
 
 ### 📊 GitHub Statistika
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Ismingizni_Yozing]&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Ismingizni_Yozing]&layout=compact&theme=radical&hide_border=true" />
+  <img src="stats.png" alt="GitHub Stats" width="45%" />
+  <img src="languages.png" alt="Top Languages" width="40%" />
 </p>
 
 ---
 
-### 📈 Code Streak
+### 📈 Contribution Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=[Ismingizni_Yozing]&theme=radical&hide_border=true" />
+  <img src="streak.png" alt="Contribution Streak" width="60%" />
 </p>
 
 ---
