@@ -2,7 +2,7 @@
 
 # 👨‍💻 [Mengliyev Bexruzbek]
 
-### 🎯 Software Developer | 💻 Tech Enthusiast | 🚀 Backend developer
+### 🎯 Software Developer | 💻 Tech Enthusiast | 🚀 Backend develop
 
 ---
 
