@@ -2,7 +2,7 @@
 
 # 👨‍💻 [Mengliyev Bexruzbek]
 
-### 🎯 Software Developer | 💻 Tech Enthusiast | 🚀 Backend develop
+### 🎯 Software Developer | 💻 Tech Enthusiast | 🚀 Backend developer
 
 ---
 
@@ -13,7 +13,7 @@
 ---
 
 ## 📌 About Me
-My name is Bexruzbek.I'm 15 years old.I'm from Uzbekistan.I will be backend developer in the future.I'm studing Al-xrazmiy vorislari now.And be alot of jobs after me.
+My name is Bexruzbek.I'm 15 years old.I'm from Uzbekistan.I will be backend developer in the future.I'm studing Al-xrazmiy vorislari now.And  alot of jobs after me.
 
 ## 🛠️ Technologies & Tools
 
