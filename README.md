@@ -13,8 +13,7 @@
 ---
 
 ## 📌 About Me
-My name is Bexruzbek.I'm 15 years old.I'm from Uzbekistan.I will be backend developer in the future.I'm studing Al-xrazmiy vorislari now.And i have got a lot of jobs ifuture Inshallah 
----
+My name is Bexruzbek.I'm 15 years old.I'm from Uzbekistan.I will be backend developer in the future.I'm studing Al-xrazmiy vorislari now.And be alot of jobs after me.
 
 ## 🛠️ Technologies & Tools
 
