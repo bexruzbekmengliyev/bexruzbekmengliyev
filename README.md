@@ -15,9 +15,9 @@
 
 <!-- Stats Section -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Stars-⭐-yellow?style=for-the-badge" alt="Stars">
-  <img src="https://img.shields.io/badge/Followers-👥-orange?style=for-the-badge" alt="Followers">
-  <img src="https://img.shields.io/badge/Profile_Views-👁-blue?style=for-the-badge" alt="Views">
+  <img src="https://img.shields.io/badge/Stars-34-yellow?style=for-the-badge" alt="Stars">
+  <img src="https://img.shields.io/badge/Followers-113-orange?style=for-the-badge" alt="Followers">
+  <img src="https://img.shields.io/badge/Profile_Views-556,23-blue?style=for-the-badge" alt="Views">
 </p>
 <h3 align="center">Backend Technologies</h3>
 <p align="center">
