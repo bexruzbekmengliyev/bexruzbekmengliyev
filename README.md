@@ -29,6 +29,10 @@
 </p>
 
 <p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&color=00ff88&line=00d4ff&point=ffffff" alt="Activity Graph">
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true&fire=00ff88&ring=00d4ff" alt="GitHub Streak">
 </p>
 
