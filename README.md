@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center" style="color: #00d4ff;">
-  Backend Developer | Al-Xorazmiy Vorislari Talabasi
+   Developer | Al-Xorazmiy Vorislari Talabasi
 </h3>
 
 <p align="center">
@@ -72,7 +72,7 @@ class Bexruzbek:
         self.role = "Backend Developer"
         self.education = "Al-Xorazmiy Vorislari"
         self.focus = ["Backend Development", "IT Mathematics", "English"]
-        self.goal = "Professional Backend Dasturchisi"
+        self.goal = "Professional  Dasturchi"
     
     def currently_learning(self):
         return ["Server Architecture", "API Design", "Database Management"]
